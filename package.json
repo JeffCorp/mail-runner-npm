@@ -8,6 +8,9 @@
   },
   "author": "Jeffrey Ukutegbe",
   "license": "MIT",
+  "repository": {
+    "git" : "https://github.com/JeffCorp/mail-runner-npm"
+  },
   "peerDependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.0.0",

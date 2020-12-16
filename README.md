@@ -1,8 +1,8 @@
-## Mail-runner
+# Mail-runner
 
 Mail-runner is a package that makes sending mails seamless. Its main aim is to help those who intend on running serverless applications to send mails with ease.
 
-### Parameters
+## Parameters
 <hr>
 Usage
 <br/>
@@ -35,3 +35,7 @@ Usage
       });
   }
 </pre>
+
+## Repo
+<hr>
+Github <a href="https://github.com/JeffCorp/mail-runner-npm">mail-runner-npm</a>
