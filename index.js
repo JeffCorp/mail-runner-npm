@@ -1,4 +1,4 @@
-import Axios from "axios";
+const Axios = require("axios").default;
 
 class MailRunner {
   constructor(config){
